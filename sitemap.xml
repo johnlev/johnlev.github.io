@@ -2,29 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://johnkotz.us/index.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/code/index.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/experience.html</loc>
+		<lastmod>2017-12-17</lastmod>
+	</url>
+	<url>
+		<loc>http://johnkotz.us/planelope.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/bookup.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/valleyquest.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/dali.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/encounters.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/khanAccademy.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 	<url>
 		<loc>http://johnkotz.us/coderDojo.html</loc>
+		<lastmod>2017-12-17</lastmod>
 	</url>
 </urlset>
